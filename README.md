@@ -35,6 +35,10 @@ and enemy behaviors.
 
 ---
 
+## 📁 Project Structure (WIP)
+
+---
+
 ## 🚧 Project Status
 
 EchoMind is currently in early development.
@@ -55,7 +59,3 @@ and basic echo replay logic.
 ## 👤 Author
 
 - KOLANI
-
-
-## 📁 Project Structure (WIP)
-
