@@ -35,5 +35,27 @@ and enemy behaviors.
 
 ---
 
+## 🚧 Project Status
+
+EchoMind is currently in early development.
+The initial goal is to implement the game loop, grid system,
+and basic echo replay logic.
+
+---
+
+## 🎯 Future Features
+
+- Multiple echoes
+- Enemies with perception (vision / sound)
+- Level editor
+- AI-driven agents (reinforcement learning)
+
+---
+
+## 👤 Author
+
+- KOLANI
+
+
 ## 📁 Project Structure (WIP)
 
