@@ -1,3 +1,0 @@
-/home/bkolani/Bureau/EchoMind/build/CMakeFiles/echomind.dir
-/home/bkolani/Bureau/EchoMind/build/CMakeFiles/edit_cache.dir
-/home/bkolani/Bureau/EchoMind/build/CMakeFiles/rebuild_cache.dir
